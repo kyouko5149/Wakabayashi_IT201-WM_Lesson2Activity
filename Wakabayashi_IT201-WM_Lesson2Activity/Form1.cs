@@ -65,7 +65,7 @@ namespace Wakabayashi_IT201_WM_Lesson2Activity
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            string[] programs = { "BS Computer Science", "BS Information Technology", "BS Information Systems" };
+            string[] programs = {"BS Civil Engineering", "BS Computer Engineering", "BS Electrical Engineering", "BS Aerospace Engineering", "BS Mechanical Engineering"};
             progbox.Items.AddRange(programs);
         }
 
